@@ -138,6 +138,27 @@ POST http://localhost:3000/create-order
 
 ## System Execution Screenshots
 
+### API Request (Postman)
+
+![API Request](docs/api-request.png)
+
+---
+
+### Payment Service Processing
+
+![Payment Service](docs/payment-service.png)
+
+---
+
+### Inventory Service Processing
+
+![Inventory Service](docs/inventory-service.png)
+
+---
+
+### Notification Service Output
+
+![Notification Service](docs/notification-service.png)
 
 ---
 
